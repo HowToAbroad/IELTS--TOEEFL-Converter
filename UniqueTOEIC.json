@@ -1,0 +1,728 @@
+{
+  "0": {
+     "TOEFL PBT":"0"
+    ,"TOEFL CBT":"310"
+    ,"IELTS":3
+    ,"TOEIC":0
+    },
+  "0": {
+     "TOEFL PBT":"1"
+    ,"TOEFL CBT":"310"
+    ,"IELTS":7
+    ,"TOEIC":0
+    },
+  "25": {
+     "TOEFL PBT":"2"
+    ,"TOEFL CBT":"310"
+    ,"IELTS":10
+    ,"TOEIC":0.5
+    },
+  "40": {
+     "TOEFL PBT":"3"
+    ,"TOEFL CBT":"310"
+    ,"IELTS":13
+    ,"TOEIC":0.5
+    },
+  "55": {
+     "TOEFL PBT":"4"
+    ,"TOEFL CBT":"310"
+    ,"IELTS":17
+    ,"TOEIC":0.5
+    },
+  "75": {
+     "TOEFL PBT":"5"
+    ,"TOEFL CBT":"310"
+    ,"IELTS":20
+    ,"TOEIC":1
+    },
+  "95": {
+     "TOEFL PBT":"6"
+    ,"TOEFL CBT":"310"
+    ,"IELTS":23
+    ,"TOEIC":1
+    },
+  "110": {
+     "TOEFL PBT":"7"
+    ,"TOEFL CBT":"310"
+    ,"IELTS":27
+    ,"TOEIC":1
+    },
+  "125": {
+     "TOEFL PBT":"8"
+    ,"TOEFL CBT":"310"
+    ,"IELTS":30
+    ,"TOEIC":1
+    },
+  "135": {
+     "TOEFL PBT":"9"
+    ,"TOEFL CBT":"310"
+    ,"IELTS":33
+    ,"TOEIC":1.5
+    },
+  "150": {
+     "TOEFL PBT":"10"
+    ,"TOEFL CBT":"310"
+    ,"IELTS":35
+    ,"TOEIC":1.5
+    },
+  "160": {
+     "TOEFL PBT":"11"
+    ,"TOEFL CBT":"310"
+    ,"IELTS":37
+    ,"TOEIC":1.5
+    },
+  "170": {
+     "TOEFL PBT":"12"
+    ,"TOEFL CBT":"310"
+    ,"IELTS":40
+    ,"TOEIC":1.5
+    },
+  "185": {
+     "TOEFL PBT":"13"
+    ,"TOEFL CBT":"313"
+    ,"IELTS":43
+    ,"TOEIC":2
+    },
+  "200": {
+     "TOEFL PBT":"14"
+    ,"TOEFL CBT":"317-320"
+    ,"IELTS":47
+    ,"TOEIC":2
+    },
+  "215": {
+     "TOEFL PBT":"15"
+    ,"TOEFL CBT":"323-327"
+    ,"IELTS":50
+    ,"TOEIC":2
+    },
+  "225": {
+     "TOEFL PBT":"16"
+    ,"TOEFL CBT":"330"
+    ,"IELTS":53
+    ,"TOEIC":2
+    },
+  "235": {
+     "TOEFL PBT":"17"
+    ,"TOEFL CBT":"333-337"
+    ,"IELTS":57
+    ,"TOEIC":2.5
+    },
+  "245": {
+     "TOEFL PBT":"18"
+    ,"TOEFL CBT":"340-343"
+    ,"IELTS":60
+    ,"TOEIC":2.5
+    },
+  "255": {
+     "TOEFL PBT":"19"
+    ,"TOEFL CBT":"347"
+    ,"IELTS":63
+    ,"TOEIC":2.5
+    },
+  "260": {
+     "TOEFL PBT":"20"
+    ,"TOEFL CBT":"350"
+    ,"IELTS":65
+    ,"TOEIC":2.5
+    },
+  "265": {
+     "TOEFL PBT":"21"
+    ,"TOEFL CBT":"353"
+    ,"IELTS":67
+    ,"TOEIC":3
+    },
+  "270": {
+     "TOEFL PBT":"22"
+    ,"TOEFL CBT":"357-360"
+    ,"IELTS":70
+    ,"TOEIC":3
+    },
+  "275": {
+     "TOEFL PBT":"23"
+    ,"TOEFL CBT":"363-367"
+    ,"IELTS":73
+    ,"TOEIC":3
+    },
+  "280": {
+     "TOEFL PBT":"24"
+    ,"TOEFL CBT":"370-373"
+    ,"IELTS":77
+    ,"TOEIC":3
+    },
+  "290": {
+     "TOEFL PBT":"25"
+    ,"TOEFL CBT":"377"
+    ,"IELTS":80
+    ,"TOEIC":3.5
+    },
+  "295": {
+     "TOEFL PBT":"26"
+    ,"TOEFL CBT":"380"
+    ,"IELTS":83
+    ,"TOEIC":3.5
+    },
+  "305": {
+     "TOEFL PBT":"27"
+    ,"TOEFL CBT":"383"
+    ,"IELTS":85
+    ,"TOEIC":3.5
+    },
+  "310": {
+     "TOEFL PBT":"28"
+    ,"TOEFL CBT":"387"
+    ,"IELTS":87
+    ,"TOEIC":4
+    },
+  "320": {
+     "TOEFL PBT":"29"
+    ,"TOEFL CBT":"390-393"
+    ,"IELTS":90
+    ,"TOEIC":4
+    },
+  "330": {
+     "TOEFL PBT":"30"
+    ,"TOEFL CBT":"396"
+    ,"IELTS":93
+    ,"TOEIC":4
+    },
+  "335": {
+     "TOEFL PBT":"31"
+    ,"TOEFL CBT":"398"
+    ,"IELTS":95
+    ,"TOEIC":4
+    },
+  "345": {
+     "TOEFL PBT":"32"
+    ,"TOEFL CBT":"400-403"
+    ,"IELTS":97
+    ,"TOEIC":4.5
+    },
+  "350": {
+     "TOEFL PBT":"33"
+    ,"TOEFL CBT":"407"
+    ,"IELTS":100
+    ,"TOEIC":4.5
+    },
+  "355": {
+     "TOEFL PBT":"34"
+    ,"TOEFL CBT":"410-413"
+    ,"IELTS":103
+    ,"TOEIC":4.5
+    },
+  "365": {
+     "TOEFL PBT":"35"
+    ,"TOEFL CBT":"417"
+    ,"IELTS":107
+    ,"TOEIC":5
+    },
+  "370": {
+     "TOEFL PBT":"36"
+    ,"TOEFL CBT":"419"
+    ,"IELTS":109
+    ,"TOEIC":5
+    },
+  "380": {
+     "TOEFL PBT":"37"
+    ,"TOEFL CBT":"421"
+    ,"IELTS":111
+    ,"TOEIC":5
+    },
+  "385": {
+     "TOEFL PBT":"38"
+    ,"TOEFL CBT":"423-427"
+    ,"IELTS":113
+    ,"TOEIC":5
+    },
+  "395": {
+     "TOEFL PBT":"39"
+    ,"TOEFL CBT":"430"
+    ,"IELTS":117
+    ,"TOEIC":5
+    },
+  "400": {
+     "TOEFL PBT":"40"
+    ,"TOEFL CBT":"433"
+    ,"IELTS":120
+    ,"TOEIC":5
+    },
+  "405": {
+     "TOEFL PBT":"41"
+    ,"TOEFL CBT":"437"
+    ,"IELTS":123
+    ,"TOEIC":5
+    },
+  "415": {
+     "TOEFL PBT":"42"
+    ,"TOEFL CBT":"440"
+    ,"IELTS":125
+    ,"TOEIC":5
+    },
+  "425": {
+     "TOEFL PBT":"43"
+    ,"TOEFL CBT":"443"
+    ,"IELTS":127
+    ,"TOEIC":5
+    },
+  "430": {
+     "TOEFL PBT":"44"
+    ,"TOEFL CBT":"447"
+    ,"IELTS":130
+    ,"TOEIC":5
+    },
+  "440": {
+     "TOEFL PBT":"45"
+    ,"TOEFL CBT":"450"
+    ,"IELTS":131
+    ,"TOEIC":5
+    },
+  "450": {
+     "TOEFL PBT":"46"
+    ,"TOEFL CBT":"453"
+    ,"IELTS":133
+    ,"TOEIC":5.5
+    },
+  "460": {
+     "TOEFL PBT":"47"
+    ,"TOEFL CBT":"457"
+    ,"IELTS":137
+    ,"TOEIC":5.5
+    },
+  "470": {
+     "TOEFL PBT":"48"
+    ,"TOEFL CBT":"460"
+    ,"IELTS":140
+    ,"TOEIC":5.5
+    },
+  "480": {
+     "TOEFL PBT":"49"
+    ,"TOEFL CBT":"463"
+    ,"IELTS":143
+    ,"TOEIC":5.5
+    },
+  "485": {
+     "TOEFL PBT":"50"
+    ,"TOEFL CBT":"465"
+    ,"IELTS":145
+    ,"TOEIC":5.5
+    },
+  "495": {
+     "TOEFL PBT":"51"
+    ,"TOEFL CBT":"467"
+    ,"IELTS":147
+    ,"TOEIC":5.5
+    },
+  "500": {
+     "TOEFL PBT":"52"
+    ,"TOEFL CBT":"470-473"
+    ,"IELTS":150
+    ,"TOEIC":5.5
+    },
+  "510": {
+     "TOEFL PBT":"53"
+    ,"TOEFL CBT":"477"
+    ,"IELTS":153
+    ,"TOEIC":5.5
+    },
+  "520": {
+     "TOEFL PBT":"54"
+    ,"TOEFL CBT":"479"
+    ,"IELTS":156
+    ,"TOEIC":5.5
+    },
+  "525": {
+     "TOEFL PBT":"55"
+    ,"TOEFL CBT":"481"
+    ,"IELTS":158
+    ,"TOEIC":5.5
+    },
+  "535": {
+     "TOEFL PBT":"56"
+    ,"TOEFL CBT":"483"
+    ,"IELTS":160
+    ,"TOEIC":5.5
+    },
+  "545": {
+     "TOEFL PBT":"57"
+    ,"TOEFL CBT":"487-490"
+    ,"IELTS":163
+    ,"TOEIC":5.5
+    },
+  "555": {
+     "TOEFL PBT":"58"
+    ,"TOEFL CBT":"493"
+    ,"IELTS":167
+    ,"TOEIC":5.5
+    },
+  "560": {
+     "TOEFL PBT":"59"
+    ,"TOEFL CBT":"496"
+    ,"IELTS":169
+    ,"TOEIC":5.5
+    },
+  "570": {
+     "TOEFL PBT":"60"
+    ,"TOEFL CBT":"498"
+    ,"IELTS":171
+    ,"TOEIC":6
+    },
+  "575": {
+     "TOEFL PBT":"61"
+    ,"TOEFL CBT":"500"
+    ,"IELTS":173
+    ,"TOEIC":6
+    },
+  "580": {
+     "TOEFL PBT":"62"
+    ,"TOEFL CBT":"503"
+    ,"IELTS":176
+    ,"TOEIC":6
+    },
+  "590": {
+     "TOEFL PBT":"63"
+    ,"TOEFL CBT":"505"
+    ,"IELTS":178
+    ,"TOEIC":6
+    },
+  "600": {
+     "TOEFL PBT":"64"
+    ,"TOEFL CBT":"507-510"
+    ,"IELTS":180
+    ,"TOEIC":6
+    },
+  "605": {
+     "TOEFL PBT":"65"
+    ,"TOEFL CBT":"513"
+    ,"IELTS":183
+    ,"TOEIC":6
+    },
+  "610": {
+     "TOEFL PBT":"66"
+    ,"TOEFL CBT":"516"
+    ,"IELTS":186
+    ,"TOEIC":6
+    },
+  "615": {
+     "TOEFL PBT":"67"
+    ,"TOEFL CBT":"518"
+    ,"IELTS":188
+    ,"TOEIC":6
+    },
+  "620": {
+     "TOEFL PBT":"68"
+    ,"TOEFL CBT":"520"
+    ,"IELTS":190
+    ,"TOEIC":6
+    },
+  "630": {
+     "TOEFL PBT":"69"
+    ,"TOEFL CBT":"523"
+    ,"IELTS":192
+    ,"TOEIC":6
+    },
+  "635": {
+     "TOEFL PBT":"70"
+    ,"TOEFL CBT":"525"
+    ,"IELTS":194
+    ,"TOEIC":6
+    },
+  "640": {
+     "TOEFL PBT":"71"
+    ,"TOEFL CBT":"527-530"
+    ,"IELTS":197
+    ,"TOEIC":6
+    },
+  "645": {
+     "TOEFL PBT":"72"
+    ,"TOEFL CBT":"532"
+    ,"IELTS":199
+    ,"TOEIC":6
+    },
+  "655": {
+     "TOEFL PBT":"73"
+    ,"TOEFL CBT":"534"
+    ,"IELTS":201
+    ,"TOEIC":6
+    },
+  "660": {
+     "TOEFL PBT":"74"
+    ,"TOEFL CBT":"536"
+    ,"IELTS":203
+    ,"TOEIC":6
+    },
+  "665": {
+     "TOEFL PBT":"75"
+    ,"TOEFL CBT":"538"
+    ,"IELTS":205
+    ,"TOEIC":6
+    },
+  "670": {
+     "TOEFL PBT":"76"
+    ,"TOEFL CBT":"540-543"
+    ,"IELTS":207
+    ,"TOEIC":6
+    },
+  "675": {
+     "TOEFL PBT":"77"
+    ,"TOEFL CBT":"544"
+    ,"IELTS":209
+    ,"TOEIC":6
+    },
+  "680": {
+     "TOEFL PBT":"78"
+    ,"TOEFL CBT":"546"
+    ,"IELTS":211
+    ,"TOEIC":6
+    },
+  "685": {
+     "TOEFL PBT":"79"
+    ,"TOEFL CBT":"548"
+    ,"IELTS":212
+    ,"TOEIC":6.5
+    },
+  "690": {
+     "TOEFL PBT":"80"
+    ,"TOEFL CBT":"550"
+    ,"IELTS":214
+    ,"TOEIC":6.5
+    },
+  "700": {
+     "TOEFL PBT":"81"
+    ,"TOEFL CBT":"552"
+    ,"IELTS":216
+    ,"TOEIC":6.5
+    },
+  "705": {
+     "TOEFL PBT":"82"
+    ,"TOEFL CBT":"554"
+    ,"IELTS":218
+    ,"TOEIC":6.5
+    },
+  "715": {
+     "TOEFL PBT":"83"
+    ,"TOEFL CBT":"557-560"
+    ,"IELTS":220
+    ,"TOEIC":6.5
+    },
+  "720": {
+     "TOEFL PBT":"84"
+    ,"TOEFL CBT":"562"
+    ,"IELTS":222
+    ,"TOEIC":6.5
+    },
+  "725": {
+     "TOEFL PBT":"85"
+    ,"TOEFL CBT":"564"
+    ,"IELTS":224
+    ,"TOEIC":6.5
+    },
+  "730": {
+     "TOEFL PBT":"86"
+    ,"TOEFL CBT":"566"
+    ,"IELTS":225
+    ,"TOEIC":6.5
+    },
+  "740": {
+     "TOEFL PBT":"87"
+    ,"TOEFL CBT":"568"
+    ,"IELTS":227
+    ,"TOEIC":6.5
+    },
+  "745": {
+     "TOEFL PBT":"88"
+    ,"TOEFL CBT":"570"
+    ,"IELTS":229
+    ,"TOEIC":6.5
+    },
+  "750": {
+     "TOEFL PBT":"89"
+    ,"TOEFL CBT":"573"
+    ,"IELTS":231
+    ,"TOEIC":6.5
+    },
+  "755": {
+     "TOEFL PBT":"90"
+    ,"TOEFL CBT":"576"
+    ,"IELTS":232
+    ,"TOEIC":6.5
+    },
+  "760": {
+     "TOEFL PBT":"91"
+    ,"TOEFL CBT":"578"
+    ,"IELTS":234
+    ,"TOEIC":6.5
+    },
+  "765": {
+     "TOEFL PBT":"92"
+    ,"TOEFL CBT":"580"
+    ,"IELTS":236
+    ,"TOEIC":6.5
+    },
+  "770": {
+     "TOEFL PBT":"93"
+    ,"TOEFL CBT":"583"
+    ,"IELTS":238
+    ,"TOEIC":6.5
+    },
+  "775": {
+     "TOEFL PBT":"94"
+    ,"TOEFL CBT":"586"
+    ,"IELTS":240
+    ,"TOEIC":6.5
+    },
+  "780": {
+     "TOEFL PBT":"95"
+    ,"TOEFL CBT":"588"
+    ,"IELTS":241
+    ,"TOEIC":6.5
+    },
+  "785": {
+     "TOEFL PBT":"96"
+    ,"TOEFL CBT":"590"
+    ,"IELTS":242
+    ,"TOEIC":7
+    },
+  "790": {
+     "TOEFL PBT":"97"
+    ,"TOEFL CBT":"593"
+    ,"IELTS":244
+    ,"TOEIC":7
+    },
+  "800": {
+     "TOEFL PBT":"98"
+    ,"TOEFL CBT":"596"
+    ,"IELTS":246
+    ,"TOEIC":7
+    },
+  "810": {
+     "TOEFL PBT":"99"
+    ,"TOEFL CBT":"598"
+    ,"IELTS":248
+    ,"TOEIC":7
+    },
+  "820": {
+     "TOEFL PBT":"100"
+    ,"TOEFL CBT":"600-603"
+    ,"IELTS":250
+    ,"TOEIC":7
+    },
+  "830": {
+     "TOEFL PBT":"101"
+    ,"TOEFL CBT":"607"
+    ,"IELTS":252
+    ,"TOEIC":7
+    },
+  "835": {
+     "TOEFL PBT":"102"
+    ,"TOEFL CBT":"610"
+    ,"IELTS":254
+    ,"TOEIC":7.5
+    },
+  "845": {
+     "TOEFL PBT":"103"
+    ,"TOEFL CBT":"612"
+    ,"IELTS":256
+    ,"TOEIC":7.5
+    },
+  "855": {
+     "TOEFL PBT":"104"
+    ,"TOEFL CBT":"614"
+    ,"IELTS":258
+    ,"TOEIC":7.5
+    },
+  "865": {
+     "TOEFL PBT":"105"
+    ,"TOEFL CBT":"617-620"
+    ,"IELTS":260
+    ,"TOEIC":7.5
+    },
+  "870": {
+     "TOEFL PBT":"106"
+    ,"TOEFL CBT":"623"
+    ,"IELTS":262
+    ,"TOEIC":7.5
+    },
+  "880": {
+     "TOEFL PBT":"107"
+    ,"TOEFL CBT":"625"
+    ,"IELTS":263
+    ,"TOEIC":7.5
+    },
+  "890": {
+     "TOEFL PBT":"108"
+    ,"TOEFL CBT":"628"
+    ,"IELTS":265
+    ,"TOEIC":7.5
+    },
+  "900": {
+     "TOEFL PBT":"109"
+    ,"TOEFL CBT":"630-633"
+    ,"IELTS":267
+    ,"TOEIC":7.5
+    },
+  "905": {
+     "TOEFL PBT":"110"
+    ,"TOEFL CBT":"637"
+    ,"IELTS":270
+    ,"TOEIC":8
+    },
+  "915": {
+     "TOEFL PBT":"111"
+    ,"TOEFL CBT":"640"
+    ,"IELTS":273
+    ,"TOEIC":8
+    },
+  "925": {
+     "TOEFL PBT":"112"
+    ,"TOEFL CBT":"643"
+    ,"IELTS":275
+    ,"TOEIC":8
+    },
+  "935": {
+     "TOEFL PBT":"113"
+    ,"TOEFL CBT":"647"
+    ,"IELTS":277
+    ,"TOEIC":8
+    },
+  "945": {
+     "TOEFL PBT":"114"
+    ,"TOEFL CBT":"650"
+    ,"IELTS":279
+    ,"TOEIC":8
+    },
+  "955": {
+     "TOEFL PBT":"115"
+    ,"TOEFL CBT":"653"
+    ,"IELTS":281
+    ,"TOEIC":8.5
+    },
+  "960": {
+     "TOEFL PBT":"116"
+    ,"TOEFL CBT":"657"
+    ,"IELTS":283
+    ,"TOEIC":8.5
+    },
+  "970": {
+     "TOEFL PBT":"117"
+    ,"TOEFL CBT":"660-663"
+    ,"IELTS":287
+    ,"TOEIC":8.5
+    },
+  "975": {
+     "TOEFL PBT":"118"
+    ,"TOEFL CBT":"667"
+    ,"IELTS":290
+    ,"TOEIC":9
+    },
+  "985": {
+     "TOEFL PBT":"119"
+    ,"TOEFL CBT":"670"
+    ,"IELTS":293
+    ,"TOEIC":9
+    },
+  "990": {
+     "TOEFL PBT":"120"
+    ,"TOEFL CBT":"673-677"
+    ,"IELTS":297-300
+    ,"TOEIC":9
+    }
+}

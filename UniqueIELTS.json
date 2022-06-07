@@ -1,0 +1,118 @@
+{
+  "0": {
+     "TOEFL IBT":"0-1"
+    ,"TOEFL PBT":"310"
+    ,"TOEFL CBT":"3-7"
+    ,"TOEIC":0
+    },
+
+  "0.5": {
+     "TOEFL IBT":"2-4"
+    ,"TOEFL PBT":"310"
+    ,"TOEFL CBT":"10-17"
+    ,"TOEIC":"25-55"
+    },
+  "1": {
+     "TOEFL IBT":"6-8"
+    ,"TOEFL PBT":"310"
+    ,"IELTS":"23-30"
+    ,"TOEIC":"95-125"
+    },
+  "1.5": {
+     "TOEFL IBT":"9-12"
+    ,"TOEFL PBT":"310"
+    ,"TOEFL CBT":"33-40"
+    ,"TOEIC":"135-170"
+    },
+  "2": {
+     "TOEFL IBT":"13-16"
+    ,"TOEFL PBT":"313-330"
+    ,"TOEFL CBT":"43-53"
+    ,"TOEIC":"185-225"
+    },
+  "2.5": {
+     "TOEFL IBT":"17-20"
+    ,"TOEFL PBT":"333-350"
+    ,"TOEFL CBT":"57-65"
+    ,"TOEIC":"235-260"
+    },
+  "3": {
+     "TOEFL IBT":"21-24"
+    ,"TOEFL PBT":"353-373"
+    ,"TOEFL CBT":"67-77"
+    ,"TOEIC":"265-280"
+    },
+  "3.5": {
+     "TOEFL IBT":"25-27"
+    ,"TOEFL PBT":"377-383"
+    ,"TOEFL CBT":"80-85"
+    ,"TOEIC":"290-305"
+    },
+  "4": {
+     "TOEFL IBT":"28-31"
+    ,"TOEFL PBT":"387-398"
+    ,"TOEFL CBT":"87-95"
+    ,"TOEIC":"310-335"
+    },
+  "4.5": {
+     "TOEFL IBT":"32-34"
+    ,"TOEFL PBT":"400-413"
+    ,"TOEFL CBT":"97-103"
+    ,"TOEIC":"345-355"
+    },
+  "5": {
+     "TOEFL IBT":"35-45"
+    ,"TOEFL PBT":"417-450"
+    ,"TOEFL CBT":"107-131"
+    ,"TOEIC":"365-440"
+    },
+  "5.5": {
+     "TOEFL IBT":"46-59"
+    ,"TOEFL PBT":"453-496"
+    ,"TOEFL CBT":"133-169"
+    ,"TOEIC":"450-560"
+    },
+  "6": {
+     "TOEFL IBT":"60-78"
+    ,"TOEFL PBT":"498-546"
+    ,"TOEFL CBT":"171-211"
+    ,"TOEIC":"570-680"
+    },
+ 
+  "6.5": {
+     "TOEFL IBT":"79-95"
+    ,"TOEFL PBT":"548-588"
+    ,"TOEFL CBT":"212-241"
+    ,"TOEIC":"685-780"
+    },
+  "7": {
+     "TOEFL IBT":"96-101"
+    ,"TOEFL PBT":"590-607"
+    ,"TOEFL CBT":"242-252"
+    ,"TOEIC":"785-830"
+    },
+  "7.5": {
+     "TOEFL IBT":"102-109"
+    ,"TOEFL PBT":"610-633"
+    ,"TOEFL CBT":"254-267"
+    ,"TOEIC":"835-900"
+    },
+  "8": {
+     "TOEFL IBT":"110-114"
+    ,"TOEFL PBT":"637-650"
+    ,"TOEFL CBT":"270-279"
+    ,"TOEIC":"905-945"
+    },
+  "8.5": {
+     "TOEFL IBT":"115-117"
+    ,"TOEFL PBT":"653-663"
+    ,"TOEFL CBT":"281-287"
+    ,"TOEIC":"955-970"
+    },
+  "9": {
+     "TOEFL IBT":"118-120"
+    ,"TOEFL PBT":"667-677"
+    ,"TOEFL CBT":"290-300"
+    ,"TOEIC":"975-990"
+    }
+}
