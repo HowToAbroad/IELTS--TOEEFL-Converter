@@ -26,6 +26,12 @@
     ,"TOEFL CBT":"10-17"
     ,"TOEIC":"25-55"
     },
+    ".5": {
+      "TOEFL IBT":"2-4"
+     ,"TOEFL PBT":"310"
+     ,"TOEFL CBT":"10-17"
+     ,"TOEIC":"25-55"
+     },
   "1": {
      "TOEFL IBT":"6-8"
     ,"TOEFL PBT":"310"
