@@ -1,11 +1,7 @@
-
-
-  .converter_container {
+.converter_container {
     background-color: #ffffff;
     width: 80vmin;
     font-size: 16px;
-    position: absolute;
-    transform: translate(-50%, -50%);
     top: 50%;
     left: 50%;
     padding: 4em 1.8em;
