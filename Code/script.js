@@ -25,7 +25,6 @@ read();
 
 function convert_1() {
   // console.log(IBT.value);
-  console.log(IBT.value);
   let output = convertion(IBT.value);
   // console.log(output);
   // disabled();
