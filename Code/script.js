@@ -6,13 +6,13 @@ let TOEIC = document.getElementById("toeic");
 let allData_1 = {};
 let allData_2 = {};
 function read(){
-    fetch("./UniqueIBT.json")
+    fetch("https://howtoabroad.github.io/IELTS-TOEFL-Converter/Code/UniqueIBT.json")
       .then(response => {
     return response.json();
     })
     .then(jsondata => allData_1 = jsondata
     );
-    fetch("./UniqueIELTS.json")
+    fetch("https://howtoabroad.github.io/IELTS-TOEFL-Converter/Code/UniqueIELTS.json")
       .then(response => {
     return response.json();
     })
