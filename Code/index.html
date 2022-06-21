@@ -9,26 +9,26 @@
     <link rel="stylesheet" href="convertor.css">
 </head>
 <body>
-    <div class="container">
+    <div class="converter_container">
         <h1>TOEFL IBT-IELTS - Converter</h1>
-        <div class="wrapper">
+        <div class="converter_wrapper">
            <label for="ielts">TOEFL IBT</label>
             <input min="0"  step="1" onkeypress="return event.charCode >= 48 && event.charCode <= 57"  id="ibt" oninput= "convert_1()">
         </div>
-        <div class="wrapper">
+        <div class="converter_wrapper">
             <label for="toefl">IELTS</label>
             <input  id="ielts"  oninput= "convert_2()">
         </div>
-        <div class="wrapper">
+        <div class="converter_wrapper">
             <label for="toefl">TOEFL PBT</label>
             <input disabled="disabled"  id="pbt">
         </div>
-        <div class="wrapper">
+        <div class="converter_wrapper">
             <label for="toefl">TOEFL CBT</label>
             <input  disabled="disabled" id="cbt" >
         </div>
         
-        <div class="wrapper">
+        <div class="converter_wrapper">
             <label for="toefl">TOEIC</label>
             <input  disabled="disabled" id="toeic">
         </div>

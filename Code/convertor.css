@@ -1,10 +1,6 @@
 
-  body {
-    
-    font-family: "Poppins", sans-serif;
-    background-color: #303a66;
-  }
-  .container {
+
+  .converter_container {
     background-color: #ffffff;
     width: 80vmin;
     font-size: 16px;
@@ -16,18 +12,18 @@
     border-radius: 0.6em;
     box-shadow: 0 0.7em 3em rgba(44, 71, 18, 0.4);
   }
-  h1 {
+  .converter_container h1 {
     width: 100%;
     text-align: center;
     font-size: 2.8em;
   }
-  label {
+  .converter_container label {
     display: block;
     font-weight: 600;
     font-size: 1.1em;
     color: #3c354e;
   }
-  input {
+  .converter_container input {
     width: 100%;
     font-size: 1.25em;
     padding: 0.6em 0.55em;
@@ -36,16 +32,16 @@
     border: 1px solid #0a0125;
     -moz-appearance: textfield;
   }
-  .container .wrapper {
+  .converter_container .converter_wrapper {
     width: 50%;
     margin: 3em auto 1.25em auto;
   }
 
   @media screen and (max-width: 575px) {
-    .container {
+    .converter_container {
       font-size: 14px;
     }
-    .container .wrapper:nth-child(2) {
+    .converter_container .converter_wrapper:nth-child(2) {
       width: 100%;
       margin: 3.5em auto 0.6em auto;
     }
