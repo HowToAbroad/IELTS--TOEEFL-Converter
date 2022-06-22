@@ -1,11 +1,8 @@
 .converter_container {
     background-color:#f5dda9;
-    width: 500px;
+    width: 100%;
     font-size: 16px;
-    position: relative;
-    top: 50%;
-    left: 15%;
-    right:10%;
+    
     padding: 4em 1.8em;
     border-radius: 0.6em;
     box-shadow: 0 0.7em 3em rgba(44, 71, 18, 0.4);
