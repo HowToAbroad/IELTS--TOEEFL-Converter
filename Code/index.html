@@ -1,39 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
     <title>Score Conversion</title>
     <!--Google font-->
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap"
+      rel="stylesheet"
+    />
     <!--Stylesheet-->
-    <link rel="stylesheet" href="convertor.css">
-</head>
-<body>
+    <link rel="stylesheet" href="convertor.css" />
+  </head>
+  <body>
     <div class="converter_container">
-        <h1>TOEFL IBT-IELTS - Converter</h1>
-        <div class="converter_wrapper">
-           <label for="ielts">TOEFL IBT</label>
-            <input min="0" max="120"  step="1" onkeypress="return event.charCode >= 48 && event.charCode <= 57"  id="ibt" oninput= "convert_1()">
-        </div>
-        <div class="converter_wrapper">
-            <label for="toefl">IELTS</label>
-            <input  id="ielts"  oninput= "convert_2()">
-        </div>
-        <div class="converter_wrapper">
-            <label for="toefl">TOEFL PBT</label>
-            <input disabled="disabled"  id="pbt">
-        </div>
-        <div class="converter_wrapper">
-            <label for="toefl">TOEFL CBT</label>
-            <input  disabled="disabled" id="cbt" >
-        </div>
-        
-        <div class="converter_wrapper">
-            <label for="toefl">TOEIC</label>
-            <input  disabled="disabled" id="toeic">
-        </div>
+      <h1>TOEFL IBT-IELTS - Converter</h1>
+      <div class="converter_wrapper">
+        <label for="ielts">TOEFL IBT</label>
+        <input
+          min="0"
+          max="120"
+          step="1"
+          onkeypress="return event.charCode >= 48 && event.charCode <= 57"
+          id="ibt"
+          oninput="convert_1()"
+        />
+      </div>
+      <div class="converter_wrapper">
+        <label for="toefl">IELTS</label>
+        <input id="ielts" oninput="convert_2()" />
+      </div>
+      <div class="converter_wrapper">
+        <label for="toefl">TOEFL PBT</label>
+        <input disabled="disabled" id="pbt" />
+      </div>
+      <div class="converter_wrapper">
+        <label for="toefl">TOEFL CBT</label>
+        <input disabled="disabled" id="cbt" />
+      </div>
+
+      <div class="converter_wrapper">
+        <label for="toefl">TOEIC</label>
+        <input disabled="disabled" id="toeic" />
+      </div>
     </div>
 
     <script src="script.js"></script>
-</body>
+  </body>
 </html>

@@ -1,5 +1,5 @@
 .converter_container {
-    background-color:#f5dda9;
+  background-image: linear-gradient(139deg,rgb(255 152 97 / 72%), rgb(0 63 94 / 51%));
     width: 100%;
     font-size: 16px;
     
@@ -36,7 +36,7 @@
     .converter_container {
       font-size: 14px;
     }
-    .converter_container .converter_wrapper:nth-child(2) {
+    .converter_container .converter_wrapper {
       width: 100%;
       margin: 3.5em auto 0.6em auto;
     } 
